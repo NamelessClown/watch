@@ -2,7 +2,7 @@
 
 	$text1 = "Hello world, this is my first Alexa Skill";
 
-	$text = $_POST;
+	$text = var_dump($_POST);
 
 
 
