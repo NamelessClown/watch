@@ -1,8 +1,8 @@
 <?php
 
-	$text1 = "Hello world, this is my first Alexa Skill";
+	$text = "Hello world, this is my first Alexa Skill";
 
-	$text = var_dump($_POST);
+
 
 
 
